@@ -28,7 +28,7 @@ export default function RootLayout({children}: { children: React.ReactNode }) {
   return (
     <html lang="es" className='dark'>
       <head>
-        <link rel="shortcut icon" href="/img/logo.png" />
+        <link rel="shortcut icon" href="./img/logo.png" />
       </head>
       <body>
       <Navbar shouldHideOnScroll>

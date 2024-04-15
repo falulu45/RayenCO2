@@ -23,7 +23,7 @@ export default function Home() {
         >
           <CardBody className=" text-center p-14">
             <Image 
-              src="/img/logo.png"
+              src="./img/logo.png"
               height={100}
               width={100}
               alt="logo"
@@ -51,7 +51,7 @@ export default function Home() {
           >
             <CardBody className=" text-center p-14">
               <Image 
-                src="/img/logo2-bn.png"
+                src="./img/logo2-bn.png"
                 height={200}
                 width={200}
                 alt="logo-bn"
